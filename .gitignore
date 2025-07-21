@@ -1,0 +1,53 @@
+*.swp
+.git
+project.lock.json
+.DS_Store
+*.pyc
+.store
+.spec
+
+# Visual Studio Code
+.vscode/
+
+# Jetbrains
+.idea/
+
+# NDepend
+NDependOut/
+*.ndproj
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+[Pp]ackages/
+x64/
+x86/
+build/
+bld/
+[Bb]in/**
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+# Visual Studio 2015
+.vs/
+
+# localhistory plugin files
+/.localhistory/
+
+launchSettings.json
+web.config
+/localsetup.bat
